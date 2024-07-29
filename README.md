@@ -17,5 +17,5 @@
 
 
 [twitter]: https://twitter.com
-[instagram]: https://www.instagram.com
+[instagram]: https://www.instagram.com/addicorayy/
 [linkedin]: https://linkedin.com/in/ray-addico-341615261/
