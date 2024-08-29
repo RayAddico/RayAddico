@@ -1,6 +1,6 @@
 ## Hi there , i'm Ray an <a href="https://linkedin.com/in/ray-addico-341615261/">IT Professional</a>☺</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
-
+ 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/RayAddico/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/RayAddico/post-install-config)
